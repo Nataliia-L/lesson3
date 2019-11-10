@@ -1,0 +1,8 @@
+val = input ('Enter any string, please.  ')  
+print ('Input_number = ' ,(val))
+print ('Length of input number is ',len (val))
+print ('Function is ' ,len)
+print ('Max element is ' ,max (val))
+print ('Function is ' ,max)
+print ('Min element is ' ,min (val))
+print ('Function is ' ,min)
